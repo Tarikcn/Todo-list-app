@@ -24,7 +24,8 @@ Link to the live app:
 https://tarikcn.github.io/Todo-list-app/
 
 Screenshot
-image
+![image](https://user-images.githubusercontent.com/115656280/211807991-c071dfc6-13ea-4d26-918a-a41f1c58b92e.png)
+
 
 License
 Please refer to the LICENSE in the repo.n
